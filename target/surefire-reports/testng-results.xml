@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="packOne" duration-ms="25484" started-at="2021-12-21T10:00:57Z" finished-at="2021-12-21T10:01:22Z">
+    <groups>
+    </groups>
+    <test name="packOneTest" duration-ms="25484" started-at="2021-12-21T10:00:57Z" finished-at="2021-12-21T10:01:22Z">
+      <class name="Test1">
+        <test-method status="PASS" signature="m1()[pri:0, instance:Test1@13acb0d1]" name="m1" duration-ms="1" started-at="2021-12-21T10:01:06Z" finished-at="2021-12-21T10:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:Test1@13acb0d1]" name="m2" duration-ms="1" started-at="2021-12-21T10:01:06Z" finished-at="2021-12-21T10:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:Test1@13acb0d1]" name="m3" duration-ms="1" started-at="2021-12-21T10:01:06Z" finished-at="2021-12-21T10:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- Test1 -->
+      <class name="seleniumtest">
+        <test-method status="PASS" signature="main()[pri:0, instance:seleniumtest@b62fe6d]" name="main" duration-ms="8894" started-at="2021-12-21T10:00:57Z" finished-at="2021-12-21T10:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- seleniumtest -->
+      <class name="logout">
+        <test-method status="PASS" signature="logout1()[pri:0, instance:logout@2b6856dd]" name="logout1" duration-ms="8621" started-at="2021-12-21T10:01:14Z" finished-at="2021-12-21T10:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout1 -->
+      </class> <!-- logout -->
+      <class name="TestNgtest">
+        <test-method status="PASS" signature="main()[pri:0, instance:TestNgtest@3e3047e6]" name="main" duration-ms="1" started-at="2021-12-21T10:01:06Z" finished-at="2021-12-21T10:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- TestNgtest -->
+      <class name="login">
+        <test-method status="PASS" signature="login1()[pri:0, instance:login@37e547da]" name="login1" duration-ms="7913" started-at="2021-12-21T10:01:06Z" finished-at="2021-12-21T10:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+      </class> <!-- login -->
+    </test> <!-- packOneTest -->
+  </suite> <!-- packOne -->
+</testng-results>

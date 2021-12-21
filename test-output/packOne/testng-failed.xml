@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [packOne]">
+  <test thread-count="5" verbose="2" name="packOneTest(failed)">
+    <classes>
+      <class name="CheckURL">
+        <methods>
+          <include name="url"/>
+        </methods>
+      </class> <!-- CheckURL -->
+    </classes>
+  </test> <!-- packOneTest(failed) -->
+</suite> <!-- Failed suite [packOne] -->
